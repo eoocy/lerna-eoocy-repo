@@ -22,5 +22,6 @@
   "dependencies": {
     "@mo-eoocy-demo/cli-shared-utils": "^0.0.1",
     "chalk": "^3.0.0"
-  }
+  },
+  "gitHead": "4cdc89b499b60ea8faadabad71eaacf4f29311a4"
 }
