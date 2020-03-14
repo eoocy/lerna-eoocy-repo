@@ -1,6 +1,6 @@
 {
   "name": "@mo-eoocy-demo/cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "> TODO: description",
   "author": "lihe <he.li@nvex.io>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@mo-eoocy-demo/cli-shared-utils": "^0.0.2",
+    "@mo-eoocy-demo/cli-shared-utils": "^0.0.3",
     "chalk": "^3.0.0"
   },
   "gitHead": "13b46389b53fdb51ac48df4efefe7639ce7d7322"
